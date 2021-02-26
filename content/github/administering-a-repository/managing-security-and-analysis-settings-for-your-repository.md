@@ -66,7 +66,7 @@ Organization owners and repository administrators can only grant access to view 
    {% endif %}
 5. Click **Save changes**.
   !["Save changes" button for changes to security alert settings](/assets/images/help/repository/security-and-analysis-security-alerts-save-changes.png)
-
+Chan0
 ### Removing access to security alerts
 
 {% data reusables.repositories.navigate-to-repo %}
